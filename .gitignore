@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Skill outputs
+*.zip
+.odoo_inspect/
+.tmp/
+
+# Virtual environments
+venv/
+env/
+.venv/
